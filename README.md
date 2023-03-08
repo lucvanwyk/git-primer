@@ -1,3 +1,3 @@
 # git-primer
 I am adding this
-and this
+this is private
